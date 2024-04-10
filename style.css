@@ -1,6 +1,6 @@
 @import url(https://fonts.google.com/share?selection.family=Fredoka:wght@300..700);
 /*DECLARANDO VARIÁVEIS*/
-;root{
+:root{
     --cor-de-fundo: #273c75;
     --verde: #028afa;
     --branco: #ffffff;
